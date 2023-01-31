@@ -10,15 +10,17 @@
 	"DocsURL": "https://docs.vivox.com/v5/general/unreal/5_19_0/en-us/Default.htm",
 	"MarketplaceURL": "",
 	"SupportURL": "https://support.vivox.com/hc/",
+	"EngineVersion": "4.27.0",
 	"CanContainContent": false,
-	"IsBetaVersion": false,
 	"Installed": true,
 	"Modules": [
 		{
 			"Name": "VivoxCore",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
-			"WhitelistPlatforms": [ "Win64" ]
+			"WhitelistPlatforms": [
+				"Win64"
+			]
 		}
 	]
 }
