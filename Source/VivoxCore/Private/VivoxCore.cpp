@@ -22,11 +22,11 @@
 #include "VivoxCoreCommonImpl.h"
 #include "VivoxNativeSdk.h"
 #include "VxcErrors.h"
-#if PLATFORM_PS4
-#pragma comment (lib, "SceSha1")
-#pragma comment (lib, "SceHmac")
-#pragma comment (lib, "SceAudioIn_stub_weak")
-#elif PLATFORM_ANDROID
+// #if PLATFORM_PS4
+// #pragma comment (lib, "SceSha1")
+// #pragma comment (lib, "SceHmac")
+// #pragma comment (lib, "SceAudioIn_stub_weak")
+#if PLATFORM_ANDROID
 #include "VxcJNI.h"
 #include "Android/AndroidApplication.h"
 #include "Android/AndroidJNI.h"
