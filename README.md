@@ -1,4 +1,4 @@
-# Unreal-Engine-5-Windows-SDK
+# Vivox SDK for Unreal Engine 5.1
 
-Unreal Windows SDK for Unreal Engine 5.0
+SDK for Unreal Engine 5.1   
 Open issue for another version :)
